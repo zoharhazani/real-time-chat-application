@@ -1,7 +1,5 @@
 # real-time-chat-application
 
-# Chat App with WebSocket
-
 ## Overview
 
 This repository contains a simple chat application implemented using WebSocket for real-time communication. The application comprises a server and a client. The server is written in Python using the `websockets` library, and the client is implemented in React.
