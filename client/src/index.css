@@ -1,0 +1,25 @@
+@import url("http://fonts.googleapis.com/css2?family=Nunito:wgh@400;700display=swap");
+body {
+  color: white !important;
+  font-family: "Nunito",sans-serif;
+  /* background: rgb(40, 40, 40) !important; */
+}
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #bab9b9;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #635f5f;
+}
