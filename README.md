@@ -1,10 +1,10 @@
 # real-time-chat-application
 
-Overview
+## Overview
 This is a simple chat application implemented using WebSocket for real-time communication. The application consists of a server and a client, with the server written in Python using the websockets library and the client implemented in React.
 
-Server
-Requirements
+## Server
+### Requirements
 Python 3.x
 websockets library (pip install websockets)
 How to Run
