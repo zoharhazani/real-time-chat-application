@@ -7,14 +7,14 @@ This is a simple chat application implemented using WebSocket for real-time comm
 ### Requirements
 Python 3.x
 websockets library (pip install websockets)
-How to Run
+### How to Run
 Clone the repository.
 
 Navigate to the server directory.
 
 Run the server script:
 
-bash
+# bash
 Copy code
 python server.py
 By default, the server runs on localhost at port 1234.
