@@ -1,0 +1,42 @@
+2024-01-18 22:38:30,469 - INFO - Server started on localhost:1234
+2024-01-18 22:38:30,543 - INFO - server listening on 127.0.0.1:1234
+2024-01-18 22:38:30,544 - INFO - server listening on [::1]:1234
+2024-01-18 22:38:39,916 - INFO - connection open
+2024-01-18 22:38:39,919 - INFO - New client connected: zohar
+2024-01-18 22:38:39,929 - INFO - Received message from client: {'type': 'connectedClients'}
+2024-01-18 22:38:39,930 - INFO - Sent connected clients list to a client.
+2024-01-18 22:38:39,931 - INFO - Received message from client: {'type': 'connectedClients'}
+2024-01-18 22:38:39,937 - INFO - Sent connected clients list to a client.
+2024-01-18 22:38:45,868 - INFO - connection open
+2024-01-18 22:38:45,871 - INFO - New client connected: yuval
+2024-01-18 22:38:45,872 - INFO - Sent connected clients list to a client.
+2024-01-18 22:38:45,883 - INFO - Received message from client: {'type': 'connectedClients'}
+2024-01-18 22:38:45,884 - INFO - Sent connected clients list to a client.
+2024-01-18 22:38:45,885 - INFO - Received message from client: {'type': 'connectedClients'}
+2024-01-18 22:38:45,886 - INFO - Sent connected clients list to a client.
+2024-01-18 22:38:50,236 - INFO - Received message from client: {'type': 'historyChat', 'name': 'yuval', 'userName': 'zohar'}
+2024-01-18 22:38:50,239 - INFO - Sent chat history to zohar for yuval.
+2024-01-18 22:38:52,824 - INFO - Received message from client: {'type': 'historyChat', 'name': 'zohar', 'userName': 'yuval'}
+2024-01-18 22:38:52,826 - INFO - Sent chat history to yuval for zohar.
+2024-01-18 22:38:57,825 - INFO - Received message from client: {'type': 'sendMessage', 'sender': 'zohar', 'recipient': 'yuval', 'time': '22:38', 'text': 'hii'}
+2024-01-18 22:38:57,828 - INFO - Sent message from zohar to yuval.
+2024-01-18 22:39:05,412 - INFO - Received message from client: {'type': 'sendMessage', 'sender': 'yuval', 'recipient': 'zohar', 'time': '22:39', 'text': 'hii to'}
+2024-01-18 22:39:05,414 - INFO - Sent message from yuval to zohar.
+2024-01-18 22:39:14,177 - INFO - Received message from client: {'type': 'logout', 'userName': 'zohar'}
+2024-01-18 22:39:14,178 - INFO - Sent connected clients list to a client.
+2024-01-18 22:39:14,180 - INFO - Client zohar logged out.
+2024-01-18 22:39:14,182 - INFO - Connection closed for client: zohar
+2024-01-18 22:39:14,183 - INFO - connection closed
+2024-01-18 22:39:18,943 - INFO - Received message from client: {'type': 'logout', 'userName': 'yuval'}
+2024-01-18 22:39:18,944 - INFO - Client yuval logged out.
+2024-01-18 22:39:18,945 - INFO - Connection closed for client: yuval
+2024-01-18 22:39:18,947 - INFO - connection closed
+2024-01-19 12:35:58,118 - INFO - Server started on localhost:1234
+2024-01-19 12:35:58,177 - INFO - server listening on 127.0.0.1:1234
+2024-01-19 12:35:58,177 - INFO - server listening on [::1]:1234
+2024-01-19 12:36:10,037 - INFO - connection open
+2024-01-19 12:36:10,040 - INFO - New client connected: zohar
+2024-01-19 12:36:10,071 - INFO - Received message from client: {'type': 'connectedClients'}
+2024-01-19 12:36:10,072 - INFO - Sent connected clients list to a client.
+2024-01-19 12:36:10,073 - INFO - Received message from client: {'type': 'connectedClients'}
+2024-01-19 12:36:10,074 - INFO - Sent connected clients list to a client.
